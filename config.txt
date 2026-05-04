@@ -2,4 +2,4 @@
 utente=AMANTOVANI
 password=FLUIDRA80
 dir_bartender=C:\Progetto6\Scan
-chiave=2031
+chiave=1973
