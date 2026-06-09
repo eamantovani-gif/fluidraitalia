@@ -1,5 +1,5 @@
 # File di configurazione
 utente=AMANTOVANI
 password=FLUIDRA80
-dir_bartender=C:\Progetto6\Scan
+dir_bartender=C:\Progetto6\Scan\
 chiave=1973
